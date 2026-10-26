@@ -1,0 +1,6 @@
+1:NAK
+1:ACK
+1:ACK
+2:ACK
+2:ACK
+2:ACK
